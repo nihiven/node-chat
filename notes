@@ -1,0 +1,24 @@
+* stick to IRC protocol
+
+
+
+Outgoing message formats, related variables and functions
+-----------------
+:origin COMMAND paramaters for command\r\n
+:origin RAW# paramaters for command\r\n
+
+origin = server.namedaddress
+
+
+IRC Login
+-----------------
+01: CAP
+02: PASS
+03: NICK
+04: USER
+
+
+
+
+Channel Operators
+-----------------
